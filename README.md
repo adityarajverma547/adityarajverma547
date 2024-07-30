@@ -8,7 +8,7 @@ I'm a passionate and dedicated software developer with a keen interest in explor
 👯 I’m looking to collaborate on open-source projects and innovative solutions in the field of AI and web development.<br>
 🤔 I’m looking for help with optimizing machine learning models and improving system architecture.<br>
 💬 Ask me about anything related to programming, especially Python, JavaScript, and cloud services.<br>
-📫 How to reach me: [Email](adityaraj35251@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adityarajverma547/)
+📫 How to reach me: [Email](adityaraj35251@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adityarajverma547/)<br>
 😄 Pronouns: He/Him <br>
 ⚡ Fun fact: I love exploring nature and often find inspiration for my projects during my hiking trips.<br>
 Feel free to check out my repositories and let's connect to build something amazing together!
