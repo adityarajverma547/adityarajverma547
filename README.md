@@ -46,12 +46,6 @@ I'm a passionate Computer Science and Engineering student with a deep love for c
 
 ---
 
-### 🚀 Projects:
-- 🔹 **Project 1** - Description of project
-- 🔹 **Project 2** - Description of project
-- 🔹 **Project 3** - Description of project
-
----
 
 ### 🔥 GitHub Streak:
 
