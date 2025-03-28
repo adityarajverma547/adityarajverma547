@@ -1,7 +1,12 @@
-## Hi there 👋
-
-
-I'm a passionate and dedicated software developer with a keen interest in exploring new technologies and solving challenging problems.
+👋 Hi there! I'm Aditya Raj Verma
+🎓 Computer Science and Engineering Student | 💻 Full Stack Developer | 🚀 Tech Enthusiast
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/previews/012/660/862/original/linkedin-logo-on-transparent-isolated-background-free-vector.jpg" alt="Rounded Image" width="200" style="border-radius: 50%;">
+  <img src="https://th.bing.com/th/id/OIP.oXKWfypMEAC8DMHWoHgo_wHaEK?rs=1&pid=ImgDetMain" alt="Rounded Image" width="200" style="border-radius: 50%;">
+  <img src="image-url" alt="Rounded Image" width="200" style="border-radius: 50%;">
+</p>
+🌟 About Me
+I'm a passionate Computer Science and Engineering student with a deep love for coding and technology. My journey in the tech world is driven by curiosity, innovation, and a constant desire to learn and grow.
 
 🔭 I’m currently working on various projects involving machine learning, web development, and cloud computing.<br>
 🌱 I’m currently learning advanced data structures, algorithms, and DevOps practices.<br>
