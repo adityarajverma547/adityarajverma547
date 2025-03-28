@@ -2,6 +2,7 @@
 🎓 Computer Science and Engineering Student | 💻 Full Stack Developer | 🚀 Tech Enthusiast
 
 🌟 About Me
+
 I'm a passionate Computer Science and Engineering student with a deep love for coding and technology. My journey in the tech world is driven by curiosity, innovation, and a constant desire to learn and grow.
 
 🔭 I’m currently working on various projects involving machine learning, web development, and cloud computing.<br>
