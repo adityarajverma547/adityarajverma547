@@ -3,17 +3,73 @@
 
 🌟 About Me
 
+Welcome to my GitHub profile! I'm passionate about web development, problem-solving, and creating efficient applications. Here's a little about me:
 I'm a passionate Computer Science and Engineering student with a deep love for coding and technology. My journey in the tech world is driven by curiosity, innovation, and a constant desire to learn and grow.
 
-🔭 I’m currently working on various projects involving machine learning, web development, and cloud computing.<br>
-🌱 I’m currently learning advanced data structures, algorithms, and DevOps practices.<br>
-👯 I’m looking to collaborate on open-source projects and innovative solutions in the field of AI and web development.<br>
-🤔 I’m looking for help with optimizing machine learning models and improving system architecture.<br>
-💬 Ask me about anything related to programming, especially Python, JavaScript, and cloud services.<br>
-📫 How to reach me: [Email](adityaraj35251@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adityarajverma547/)<br>
-😄 Pronouns: He/Him <br>
-⚡ Fun fact: I love exploring nature and often find inspiration for my projects during my hiking trips.<br>
-Feel free to check out my repositories and let's connect to build something amazing together!
+
+
+---
+
+### 🌐 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/adityarajverma547/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:adityarajv473@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+### ⚙️ Languages and Tools:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ausaf02&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ausaf02&layout=compact&theme=dark)
+
+---
+
+### 🚀 Projects:
+- 🔹 **Project 1** - Description of project
+- 🔹 **Project 2** - Description of project
+- 🔹 **Project 3** - Description of project
+
+---
+
+### 🔥 GitHub Streak:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityarajverma547&theme=dark)
+
+---
+
+### 📅 Total Contributions:
+
+- **64** Total Contributions
+- **14** Commits in 2025
+- **Longest Streak:** 2 days
+
+---
+
+### 💡 Fun Fact:
+I love exploring new technologies and continuously improving my skills. Let's connect and collaborate!
+
 
 
 
