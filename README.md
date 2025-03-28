@@ -40,9 +40,9 @@ I'm a passionate Computer Science and Engineering student with a deep love for c
 
 ### 📊 GitHub Stats:
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ausaf02&show_icons=true&theme=dark&count_private=true)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityarajverma547&show_icons=true&theme=dark&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ausaf02&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityarajverma547&layout=compact&theme=dark)
 
 ---
 
@@ -59,13 +59,6 @@ I'm a passionate Computer Science and Engineering student with a deep love for c
 
 ---
 
-### 📅 Total Contributions:
-
-- **64** Total Contributions
-- **14** Commits in 2025
-- **Longest Streak:** 2 days
-
----
 
 ### 💡 Fun Fact:
 I love exploring new technologies and continuously improving my skills. Let's connect and collaborate!
